@@ -1,0 +1,6 @@
+dist/
+webpack*
+# src
+launchChrome.js
+node_modules
+remote-debug-profile
